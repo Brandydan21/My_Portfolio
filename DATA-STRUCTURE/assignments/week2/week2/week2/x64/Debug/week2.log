@@ -1,0 +1,11 @@
+﻿  Polygon.cpp
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.cpp(10,10): error C2382: 'Polygon::Polygon': redefinition; different exception specifications
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.h(18,5): message : see declaration of 'Polygon::Polygon'
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.cpp(15,17): error C2382: 'Polygon::getNumberOfVertices': redefinition; different exception specifications
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.h(22,12): message : see declaration of 'Polygon::getNumberOfVertices'
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.cpp(39,18): error C2382: 'Polygon::getPerimeter': redefinition; different exception specifications
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.h(24,11): message : see declaration of 'Polygon::getPerimeter'
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.cpp(57,18): error C2382: 'Polygon::scale': redefinition; different exception specifications
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.h(26,13): message : see declaration of 'Polygon::scale'
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.cpp(70,26): error C2084: function 'const Vector2D &Polygon::getVertex(size_t) const' already has a body
+C:\Users\brand\source\repos\week2\week2\week2\Polygon.cpp(20,26): message : see previous definition of 'getVertex'

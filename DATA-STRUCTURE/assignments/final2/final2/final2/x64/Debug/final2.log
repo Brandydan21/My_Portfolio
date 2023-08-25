@@ -1,0 +1,4 @@
+﻿  DSPStringIterator.cpp
+C:\Users\brand\source\repos\final2\final2\final2\DSPStringIterator.cpp(70,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brand\source\repos\final2\final2\final2\DSPStringIterator.cpp(82,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  final2.vcxproj -> C:\Users\brand\source\repos\final2\final2\x64\Debug\final2.exe

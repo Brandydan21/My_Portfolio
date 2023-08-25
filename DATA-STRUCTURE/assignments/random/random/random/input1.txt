@@ -1,0 +1,13 @@
+Student Marks
+English
+Maths
+Science
+100
+50
+75
+175
+60
+75
+100
+50
+75

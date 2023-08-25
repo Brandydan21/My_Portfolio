@@ -1,0 +1,10 @@
+1 Benjamin Franklin 56 Male Glenferrie Liberal Libs 16 11
+2 Samuel James 25 Male OakPark Labor ALP 5 4
+3 Roberta Jules 36 Female Coburg Labor ALP 10 2
+4 Lauren Hades 55 Female Frankston Liberal Libs 5 5
+5 Penny Toobert 23 Female Coburg Liberal Libs 5 5
+6 Clark Boiles 44 Male Strathmore Labor ALP 4 2
+7 Brandon Bently 56 Male PascoeVale Liberal Libs 6 2
+8 Bernadette Smithens 34 Female Jacana Labor ALP 3 1
+9 Jacob Broad 45 Male Glenroy Labor ALP 4 2
+10 Vanessa Hilgers 36 Female Essendon Liberal Libs 12 3
