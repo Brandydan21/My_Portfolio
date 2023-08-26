@@ -1,0 +1,361 @@
+/*
+filename: style.css
+author: Winston, Amber, Storm, Dory, Brandy
+created: 23/03/2022
+last modified: 08/04/2022
+description: Refers to index.html file */
+
+/* Navigation Bar */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.navbar  {
+    /* Text & background */
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    background-color: #555; /* Sets the background color of the navigation bar to dark grey */
+
+    /* Size & overflow, display */
+    width: 100%; /* Allows the navigation bar to use 100% of the horiztonal of the web page */
+    overflow: hidden; /* hides the ability to scroll vertically and horizontally in the navigation bar */
+    display: flex; /* This defines a flex container; inline or block depending on the given value. It enables a flex context for all its direct children. */
+}
+
+/* Navigation Bar - Links */
+.navbar a {
+    /* Text */
+    text-align: center;
+    text-decoration: none;
+    color: white; /* Sets the navigation bar links to be the color white */
+
+    /* Position and size */
+    padding: 20px 10px;
+    margin : 0;
+    width: 30%;
+
+    /* Fade between colours */
+    transition: background-color 0.15s;
+}
+
+
+/* Navigation Bar - Hovered */
+.navbar a:hover {
+	background-color: rgba(0, 0, 0, 0.377);
+}
+
+/* Navigation Bar - Active*/
+.navbar a:active {
+	background-color: #8A2BE2;
+}
+
+
+body
+{
+    background-size: 120px;
+    overflow-x: hidden; /* Disables the ability to scroll horizontally in the webpage */
+    overflow-y: auto; /* Allows the ability to scroll vertically in the webpage but it's automatically detected when a user is able to. */
+    background-color: azure; /* Sets the background color for the body to azure */
+    background-size: cover; /* Sets the background-size image to the entire webpage's limits (Covers the entire webpage) */
+    background-position: center; /* Sets the background image position to the center of the webpage */
+    position: relative; /* Positioned relative to its normal positon */
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height:100vh;
+    font-family: 'Poppins', sans-serif;
+}
+h1
+{
+    /* background-image: url(images/background.jpg); */
+    background-image: linear-gradient(#8A2BE2, #d24dff); /*Changes the background colour of the title to a gradient of purples horizontal */
+  /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    text-align: center; /*Aligns the text of Header1 to the center of the webpage */
+    color: white; /*Sets the color of the Header1 Text to white */
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px; /*Sets the font-size of the Header1 text to 50px */
+    margin: 20px 0px; /*Sets the margin around the header1 to 20px */
+    padding: 50px; /* Adds padding to the Header1 as 50px */
+}
+
+li a{
+  color : #BB86FC;
+}
+
+li a:visited{
+  color : #3E50B4;
+}
+
+#intro a{
+    color : white !important;
+    text-shadow: 3px 3px black !important;
+  }
+  
+
+#intro /* This refers to the ID Selector id=Intro in the first paragraph element*/
+{
+	background-image: url(images/indexbackground.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px; /*Adds padding around the paragraph */
+	margin: 20px;
+}
+#intro
+{
+	text-align: center; /* Aligns the text of the first paragraph that it is assigned to, to the center of the webpage */
+	color: white;
+	font-size: 25px; /* Sets the font-size of the text to 25px */
+	font-family: 'Poppins', sans-serif;
+	text-shadow: 3px 3px black; 
+	padding: 50px; /*Adds padding around the paragraph */
+	margin: 20px; /*Sets the margin around the paragraph to 20px */
+}
+
+#intro a{
+    color : #8500AD;
+  }
+  
+form 
+{
+    /*changes the font of the multiple choice answers in the quiz */
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px; 
+}
+label
+{   /*changes the font of the questions in the quiz */
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	font-size: 17px;
+}
+
+legend
+{
+    /*changes the font of the headings in the quiz */
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+	font-size: 20px;	
+}
+
+table {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#quiztable {
+    border-spacing: 0px !important;
+    font-family: 'Poppins', sans-serif !important;
+    text-align: center !important;
+}
+
+#quiztable tr th {
+    background-color: #8A2BE2 !important;
+    color: white !important;
+    border-top: none !important;
+    padding: 15px 25px !important;
+}
+#quiztable td{
+    border-bottom: 1px solid #d24dff !important;
+    padding: 10px 25px !important;
+}
+
+
+.content{
+    flex: auto;
+    padding: 20px;
+    border: none;
+}
+
+.button {
+    /*changes design of the submit and reset quiz buttons */
+    background-color: #8A2BE2;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    margin: 4px 2px;
+}
+
+
+.contents
+{
+	border-collapse: collapse;
+	margin: 25px 0;
+	font-size: 0.9em;
+	font-family: 'Poppins', sans-serif;
+	min-width: 400px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.contents thead tr
+{
+	background-color: #8A2BE2;
+	color: #ffffff;
+	text-align: left;
+}
+
+.contents th, .contents td
+{
+	padding: 12px 15px;
+}
+
+.contents tbody tr
+{
+	border-bottom: 1px solid #dddddd;
+}
+
+.contents tbody tr:nth-of-type(even)
+{
+	background-color: #f3f3f3;
+}
+
+.contents tbody tr:last-of-type
+{
+	border-bottom: 2px solid #8A2BE2;
+}
+
+.contents tbody tr.active-row
+{
+	font-weight: bold;
+	color: #8A2BE2;
+}
+
+#topic{ 
+    border: 4px double #d24dff;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+#graph{
+    border: 4px double #d24dff;
+    padding: 1em;
+    margin: 1em;
+    border-radius: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+#graph img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+
+#graph figcaption {
+	text-align: center;
+    font-family: 'Poppins', sans-serif;
+} 
+
+#graph h2 p {
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+    
+}
+#graph table {
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto; 
+    font-family: 'Poppins', sans-serif;
+}
+
+
+#image {
+    width: 100%;
+margin-left:auto; 
+    margin-right:auto;
+}
+#future {
+    border: 4px inset #d24dff;
+    border-radius: 14px;
+    margin: 2em;
+    padding: 1em;
+    width: 50%; 
+    float: right; 
+    box-shadow:10px 10px 5px #aaaaaa;
+    font-family: 'Poppins', sans-serif;
+}
+
+#quizcontents{
+    font-family: 'Poppins', sans-serif;
+    flex: auto;
+    padding: 20px;
+    border: none;
+}
+
+
+
+.content_nav  {
+
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    border: 4px purple double;
+    padding: 1em ;
+    margin: 1em;
+    border-radius: 14px;
+    overflow: hidden; 
+}
+
+
+.content_nav a {
+
+    text-align: center;
+    text-decoration: none;
+
+    color: purple; 
+}
+
+/* Navigation Bar - Hovered */
+.content_nav a:hover {
+    background-color:rgb(0,128,128); 
+}
+
+/* Navigation Bar - Active*/
+.content_nav a:active {
+    background-color: rgb(0,128,128);
+}
+
+.title
+{
+    /*makes the titles in the reference list to italic*/
+    font-style: italic;
+}
+
+footer {
+    width: 100%; /* Allows the footer to use 100% of the width/horizontal of the webpage */
+    background-color: aliceblue; /* Sets the background color of the footer to alice blue */
+    flex-shrink: 0;
+}
+
+footer p /*Impacts the paragraph under the footer element */
+{ 
+	display: inline-block; /* Condenses the line of text into a block paragraph */
+	font-style: italic;
+	font-family: 'Poppins', sans-serif;
+	width: 100%; /*Allows the footer paragraph to use only 4% of the horizontal of the webpage */
+}
+#contactus { /* Concerns the selector ID of id=contactus */
+	float: none;
+	text-align: center;
+   	color: #8A2BE2;
+}
+#contactus a{
+  color : #BB86FC;
+text-decoration: none;
+}
+
+#contactus a:visited{
+  color : #3E50B4;
+text-decoration: none;
+}
+
+.header img{
+    /* enhancement page*/
+    float: right;
+    width: 100px;
+    height: 100px;
+    background: #555;
+}
+

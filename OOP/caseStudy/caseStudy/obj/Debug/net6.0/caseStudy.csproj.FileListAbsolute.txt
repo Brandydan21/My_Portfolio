@@ -1,0 +1,15 @@
+/Users/brandydan/Projects/caseStudy/caseStudy/bin/Debug/net6.0/caseStudy
+/Users/brandydan/Projects/caseStudy/caseStudy/bin/Debug/net6.0/caseStudy.deps.json
+/Users/brandydan/Projects/caseStudy/caseStudy/bin/Debug/net6.0/caseStudy.runtimeconfig.json
+/Users/brandydan/Projects/caseStudy/caseStudy/bin/Debug/net6.0/caseStudy.dll
+/Users/brandydan/Projects/caseStudy/caseStudy/bin/Debug/net6.0/caseStudy.pdb
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/caseStudy.csproj.AssemblyReference.cache
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/caseStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/caseStudy.AssemblyInfoInputs.cache
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/caseStudy.AssemblyInfo.cs
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/caseStudy.csproj.CoreCompileInputs.cache
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/caseStudy.dll
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/refint/caseStudy.dll
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/caseStudy.pdb
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/caseStudy.genruntimeconfig.cache
+/Users/brandydan/Projects/caseStudy/caseStudy/obj/Debug/net6.0/ref/caseStudy.dll
