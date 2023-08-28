@@ -1,0 +1,5 @@
+/Users/brandydan/Projects/shapeDrawer/obj/Debug/netcoreapp5.0/shapeDrawer.csproj.AssemblyReference.cache
+/Users/brandydan/Projects/shapeDrawer/obj/Debug/netcoreapp5.0/shapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandydan/Projects/shapeDrawer/obj/Debug/netcoreapp5.0/shapeDrawer.AssemblyInfoInputs.cache
+/Users/brandydan/Projects/shapeDrawer/obj/Debug/netcoreapp5.0/shapeDrawer.AssemblyInfo.cs
+/Users/brandydan/Projects/shapeDrawer/obj/Debug/netcoreapp5.0/shapeDrawer.csproj.CoreCompileInputs.cache

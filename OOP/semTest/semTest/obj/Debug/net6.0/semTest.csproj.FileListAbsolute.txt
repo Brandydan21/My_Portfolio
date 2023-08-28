@@ -1,0 +1,15 @@
+/Users/brandydan/Projects/semTest/semTest/bin/Debug/net6.0/semTest
+/Users/brandydan/Projects/semTest/semTest/bin/Debug/net6.0/semTest.deps.json
+/Users/brandydan/Projects/semTest/semTest/bin/Debug/net6.0/semTest.runtimeconfig.json
+/Users/brandydan/Projects/semTest/semTest/bin/Debug/net6.0/semTest.dll
+/Users/brandydan/Projects/semTest/semTest/bin/Debug/net6.0/semTest.pdb
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/semTest.csproj.AssemblyReference.cache
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/semTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/semTest.AssemblyInfoInputs.cache
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/semTest.AssemblyInfo.cs
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/semTest.csproj.CoreCompileInputs.cache
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/semTest.dll
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/refint/semTest.dll
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/semTest.pdb
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/semTest.genruntimeconfig.cache
+/Users/brandydan/Projects/semTest/semTest/obj/Debug/net6.0/ref/semTest.dll

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BA867D98-F593-4E08-9AE6-D4DE2370A9FB}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.semTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="semTest/DataAnalyser.cs">
+    <Files>
+      <File FileName="semTest/Program.cs" Line="19" Column="40" />
+      <File FileName="semTest/DataAnalyser.cs" Line="19" Column="10" />
+      <File FileName="semTest/SummaryStrategy.cs" Line="6" Column="9" />
+      <File FileName="semTest/AverageSummary.cs" Line="6" Column="9" />
+      <File FileName="semTest/MinMaxSummary.cs" Line="15" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="semTest" expanded="True">
+            <Node name="semTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/brandydan/Projects/clockClass/clockClass/bin/Debug/net6.0/clockClass
+/Users/brandydan/Projects/clockClass/clockClass/bin/Debug/net6.0/clockClass.deps.json
+/Users/brandydan/Projects/clockClass/clockClass/bin/Debug/net6.0/clockClass.runtimeconfig.json
+/Users/brandydan/Projects/clockClass/clockClass/bin/Debug/net6.0/clockClass.dll
+/Users/brandydan/Projects/clockClass/clockClass/bin/Debug/net6.0/clockClass.pdb
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/clockClass.csproj.AssemblyReference.cache
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/clockClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/clockClass.AssemblyInfoInputs.cache
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/clockClass.AssemblyInfo.cs
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/clockClass.csproj.CoreCompileInputs.cache
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/clockClass.dll
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/refint/clockClass.dll
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/clockClass.pdb
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/clockClass.genruntimeconfig.cache
+/Users/brandydan/Projects/clockClass/clockClass/obj/Debug/net6.0/ref/clockClass.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8+LEIVZJ6Bz41wy+CTzzVjjrj7TJe39panL7+pls/21uzcQvJnwk3+uiv8YiX3SvgWTfp6oUyKiEiDBKI5ohw==",
+  "success": true,
+  "projectFilePath": "/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/shapeDrawer1.csproj",
+  "expectedPackageFiles": [
+    "/Users/brandydan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/brandydan/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/brandydan/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

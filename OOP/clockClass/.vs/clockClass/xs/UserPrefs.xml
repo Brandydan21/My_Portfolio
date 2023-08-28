@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{DAD08494-57C8-4420-97BA-784D30111444}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NUnitTest/counterTest.cs">
+    <Files>
+      <File FileName="clockClass/Program.cs" Line="18" Column="49" />
+      <File FileName="clockClass/Clock.cs" Line="6" Column="50" />
+      <File FileName="clockClass/Counter.cs" Line="24" Column="28" />
+      <File FileName="NUnitTest/UnitTest1.cs" Line="16" Column="11" />
+      <File FileName="NUnitTest/counterTest.cs" Line="30" Column="32" />
+      <File FileName="NUnitTest/Usings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="clockClass" expanded="True">
+            <Node name="clockClass" expanded="True" />
+            <Node name="NUnitTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="clockClass" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.clockClass PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/counterClass.csproj.AssemblyReference.cache
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/counterClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/counterClass.AssemblyInfoInputs.cache
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/counterClass.AssemblyInfo.cs
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/counterClass.csproj.CoreCompileInputs.cache
+/Users/brandydan/Projects/counterClass/counterClass/bin/Debug/net6.0/counterClass
+/Users/brandydan/Projects/counterClass/counterClass/bin/Debug/net6.0/counterClass.deps.json
+/Users/brandydan/Projects/counterClass/counterClass/bin/Debug/net6.0/counterClass.runtimeconfig.json
+/Users/brandydan/Projects/counterClass/counterClass/bin/Debug/net6.0/counterClass.dll
+/Users/brandydan/Projects/counterClass/counterClass/bin/Debug/net6.0/counterClass.pdb
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/counterClass.dll
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/refint/counterClass.dll
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/counterClass.pdb
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/counterClass.genruntimeconfig.cache
+/Users/brandydan/Projects/counterClass/counterClass/obj/Debug/net6.0/ref/counterClass.dll

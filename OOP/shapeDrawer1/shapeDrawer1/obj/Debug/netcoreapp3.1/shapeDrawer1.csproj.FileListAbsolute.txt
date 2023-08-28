@@ -1,0 +1,14 @@
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/obj/Debug/netcoreapp3.1/shapeDrawer1.csproj.AssemblyReference.cache
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/obj/Debug/netcoreapp3.1/shapeDrawer1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/obj/Debug/netcoreapp3.1/shapeDrawer1.AssemblyInfoInputs.cache
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/obj/Debug/netcoreapp3.1/shapeDrawer1.AssemblyInfo.cs
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/obj/Debug/netcoreapp3.1/shapeDrawer1.csproj.CoreCompileInputs.cache
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/bin/Debug/netcoreapp3.1/shapeDrawer1
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/bin/Debug/netcoreapp3.1/shapeDrawer1.deps.json
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/bin/Debug/netcoreapp3.1/shapeDrawer1.runtimeconfig.json
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/bin/Debug/netcoreapp3.1/shapeDrawer1.runtimeconfig.dev.json
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/bin/Debug/netcoreapp3.1/shapeDrawer1.dll
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/bin/Debug/netcoreapp3.1/shapeDrawer1.pdb
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/obj/Debug/netcoreapp3.1/shapeDrawer1.dll
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/obj/Debug/netcoreapp3.1/shapeDrawer1.pdb
+/Users/brandydan/Projects/shapeDrawer1/shapeDrawer1/obj/Debug/netcoreapp3.1/shapeDrawer1.genruntimeconfig.cache

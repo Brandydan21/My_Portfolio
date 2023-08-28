@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DDC9EC7F-B443-4C78-80CE-61DBBF1E88D2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="shapeDrawer1/Program.cs">
+    <Files>
+      <File FileName="shapeDrawer1/Program.cs" Line="19" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shapeDrawer1" expanded="True">
+            <Node name="shapeDrawer1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.shapeDrawer1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

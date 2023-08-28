@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{E7E8F3A2-C5C9-4111-92AC-70F2EDB4D98A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NUnitTests/TestBag.cs">
+    <Files>
+      <File FileName="caseStudy/Program.cs" />
+      <File FileName="caseStudy/GameObject.cs" />
+      <File FileName="caseStudy/Inventory.cs" />
+      <File FileName="caseStudy/IdentifiableObject.cs" />
+      <File FileName="caseStudy/Command.cs" />
+      <File FileName="caseStudy/IHaveInventory.cs" />
+      <File FileName="NUnitTests/TestLookCommand.cs" />
+      <File FileName="caseStudy/LookCommand.cs" />
+      <File FileName="caseStudy/Player.cs" />
+      <File FileName="caseStudy/Item.cs" />
+      <File FileName="caseStudy/Bag.cs" />
+      <File FileName="NUnitTests/TestPlayer.cs" />
+      <File FileName="NUnitTests/TestIdentifiableObject.cs" />
+      <File FileName="NUnitTests/TestItem.cs" />
+      <File FileName="NUnitTests/TestInventory.cs" />
+      <File FileName="NUnitTests/TestBag.cs" Line="70" Column="59" />
+      <File FileName="NUnitTests/Usings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="caseStudy" expanded="True">
+            <Node name="caseStudy" expanded="True" />
+            <Node name="NUnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.caseStudy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
