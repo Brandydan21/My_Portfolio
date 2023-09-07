@@ -1,0 +1,112 @@
+body,
+h1,
+h2,
+p,
+table,
+tr,
+td,
+input,
+textarea,
+select {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+}
+
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+main {
+  flex: 1;
+}
+/* Header styles */
+header {
+  background-color: #dda0dd;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+header h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+}
+
+/* Form container styles */
+.container {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+/* Form table styles */
+.container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Form label styles */
+.container label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Form input and textarea styles */
+.container input[type="text"],
+.container select,
+.container textarea {
+  width: 100%;
+  padding: 3px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+/* Form submit and reset button styles */
+.container input[type="submit"],
+.container input[type="reset"] {
+  background-color: #dda0dd;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.container input[type="submit"]:hover,
+.container input[type="reset"]:hover {
+  background-color: #d8bfd8;
+}
+
+hr {
+  border: 1px solid #dda0dd;
+}
+
+footer {
+  background-color: #dda0dd;
+  padding: 5px;
+  text-align: center;
+}
+img {
+  max-width: 100%; /* Make the image fit the container width */
+  height: auto; /* Maintain the image's aspect ratio */
+  display: block; /* Remove any extra spacing below the image */
+  margin: 0 auto; /* Center the image horizontally in the container */
+}
